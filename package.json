@@ -2,7 +2,13 @@
   "name": "@dcanhanga/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration used by Domingos Canhanga",
-  "keywords": ["eslint", "react", "next", "node"],
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "react",
+    "next",
+    "node"
+  ],
   "author": "Domingos Canhanga",
   "license": "MIT",
   "peerDependencies": {
@@ -29,6 +35,4 @@
     "prettier": "^3.0.0",
     "eslint-plugin-prettier": "5.0.0-alpha.2"
   }
-
-
 }
