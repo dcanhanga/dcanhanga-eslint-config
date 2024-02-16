@@ -11,6 +11,7 @@ module.exports = {
 	},
 	plugins: ['@typescript-eslint'],
 	rules: {
+		'@typescript-eslint/explicit-function-return-type': 'error',
 		'@typescript-eslint/naming-convention': [
 			'error',
 			{
